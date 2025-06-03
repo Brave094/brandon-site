@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
+    "cypress": "^14.4.1",
     "husky": "^9.1.7"
   }
 }
